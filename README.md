@@ -8,7 +8,7 @@ Domain X : Images of Yosemite national park in summer.
 
 Donain Y : Images of Yomesite national park in winter.
 
-![Alt text](./Images/download (1).png?raw=true)
+![Alt text](./Images/download1.png?raw=true)
 
 ## MODEL
 
@@ -48,12 +48,13 @@ G loss : 4.04
  
 ## Results 
 
-Original winter pics and corresponding generated winter pics.
+XtoY : Original winter pics and corresponding generated winter pics.
+YtoX : Original winter pics and corresponding generated summer pics.
 
 ![Alt text](./Images/x2y.png?raw=true)
 
-Original winter pics and corresponding generated summer pics.
 
-![Alt text](./Images/y2x.png?raw=true)
+
+
 
 
