@@ -49,7 +49,10 @@ G loss : 4.04
 ## Results 
 
 XtoY : Original winter pics and corresponding generated winter pics.
+
 YtoX : Original winter pics and corresponding generated summer pics.
+
+The images seem to a blurry but we can see that the model has learned a few differences in the summer and winter images and used themin the genearation of the images. 
 
 ![Alt text](./Images/x2y.png?raw=true)
 
